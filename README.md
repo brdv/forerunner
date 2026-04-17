@@ -3,11 +3,10 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/blaspsoft/forerunner/actions?query=workflow%3Amain+branch%3Amain"><img src="https://img.shields.io/github/actions/workflow/status/blaspsoft/forerunner/main.yml?branch=main&label=tests&style=flat-square" alt="Tests"></a>
-    <a href="https://packagist.org/packages/blaspsoft/forerunner"><img src="https://img.shields.io/packagist/dt/blaspsoft/forerunner.svg?style=flat-square" alt="Total Downloads"></a>
-    <a href="https://packagist.org/packages/blaspsoft/forerunner"><img src="https://img.shields.io/packagist/v/blaspsoft/forerunner.svg?style=flat-square" alt="Latest Version on Packagist"></a>
-    <a href="https://packagist.org/packages/blaspsoft/forerunner"><img src="https://img.shields.io/packagist/l/blaspsoft/forerunner.svg?style=flat-square" alt="License"></a>
-    <a href="https://coderabbit.ai"><img src="https://img.shields.io/coderabbit/prs/github/Blaspsoft/forerunner?utm_source=oss&utm_medium=github&utm_campaign=Blaspsoft%2Fforerunner&labelColor=171717&color=FF570A&label=CodeRabbit+Reviews" alt="CodeRabbit Pull Request Reviews"></a>
+    <a href="https://github.com/brdv/forerunner/actions?query=workflow%3Amain+branch%3Amain"><img src="https://img.shields.io/github/actions/workflow/status/brdv/forerunner/main.yml?branch=main&label=tests&style=flat-square" alt="Tests"></a>
+    <a href="https://packagist.org/packages/brdv/forerunner"><img src="https://img.shields.io/packagist/dt/brdv/forerunner.svg?style=flat-square" alt="Total Downloads"></a>
+    <a href="https://packagist.org/packages/brdv/forerunner"><img src="https://img.shields.io/packagist/v/brdv/forerunner.svg?style=flat-square" alt="Latest Version on Packagist"></a>
+    <a href="https://packagist.org/packages/brdv/forerunner"><img src="https://img.shields.io/packagist/l/brdv/forerunner.svg?style=flat-square" alt="License"></a>
 </p>
 
 # Forerunner - Build structured LLM outputs the Laravel way
@@ -21,7 +20,7 @@ A Laravel package that provides an elegant, migration-inspired API for defining 
 You can install the package via composer:
 
 ```bash
-composer require blaspsoft/forerunner:^0.2
+composer require brdv/forerunner
 ```
 
 > **Note**: This is a pre-release version (0.x). The API may change as we gather feedback and iterate towards 1.0.0.
@@ -630,9 +629,14 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 Please review [our security policy](../../security/policy) on how to report security vulnerabilities.
 
+## Acknowledgements
+
+This package is a fork of [blaspsoft/forerunner](https://github.com/Blaspsoft/forerunner), originally created by [Blaspsoft](https://github.com/blaspsoft). The original package is no longer maintained. Full credit for the initial design and implementation goes to the original authors.
+
 ## Credits
 
--   [Blaspsoft](https://github.com/blaspsoft)
+-   [Bram](https://github.com/brdv)
+-   [Blaspsoft](https://github.com/blaspsoft) (original author)
 -   [All Contributors](../../contributors)
 
 ## License
