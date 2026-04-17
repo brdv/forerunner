@@ -1,6 +1,7 @@
 The MIT License (MIT)
 
-Copyright (c) Blaspsoft <support@blaspsoft.com>
+Copyright (c) Bram <brdv@pm.me>
+Copyright (c) Blaspsoft <support@blaspsoft.com> (original author)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
